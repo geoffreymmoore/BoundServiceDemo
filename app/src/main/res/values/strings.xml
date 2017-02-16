@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bound Service Demo</string>
+    <string name="get_time">Get Time</string>
+    <string name="time_text">Large Text</string>
+</resources>
